@@ -6,11 +6,12 @@ The micro-lesson assignment outlined it to be done after instructor training has
 
 ### Mentor Requirements
 Estimating an average of 80 people completing instructor training.
-The program outlined below will require, at most, 8 Mentors
+The program outlined below will require, at minimum, 8 Mentors
 (Software Carpentry or Data Carpentry Instructors who have taught 3 or more lessons in the previous 12 months).
 Each Mentor will be responsible for a maximum of 10 individuals who have recently completed instructor 
 training, herein referred to as trainees. For this program to be successful, each Mentor 
-will have to commit a maximum of ~ 9 - 10 hours over 3 months. 
+will have to commit a maximum of ~30 hours over 3 months
+(see the table at the end of this document). 
 
 ### Micro-lesson topic requirements
 The trainees assigned to each mentor will focus their micro-lesson on the same topic
@@ -60,3 +61,14 @@ Mentor in their Pull Request to demonstrate that this has been done.
 * What went wrong / fell flat / that you would not ever want to do again?
 * Anything else that might be interesting.
 
+### Mentors' Contribution Time Estimation Table
+
+|Activity|Duration Estimation|Quantity|
+|Review lesson notes|0:15|Number of trainees|
+|Meeting pre mini-lesson|0:15|Number of trainees|
+|Watch mini-lesson|1:00|Number of trainees|
+|Individual debriefing|0:15|Number of trainees|
+|Group debriefing|1:00|1|
+|Review pull request|0:15|Number of trainees|
+
+**Total**: `Number of trainees` × 2 + 1.
