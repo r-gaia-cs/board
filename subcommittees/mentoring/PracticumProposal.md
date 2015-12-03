@@ -19,7 +19,7 @@ might be gaps in their knowledge, which the trainees themselves may or may not b
 them work through the core lesson material, we ensure that the trainees have at least a minimum level
 of knowledge in all of our core subjects. 
 
-Third, many instructors don’t really know too many others within the Software and Data Carpentry
+Third, many instructors don't really know too many others within the Software and Data Carpentry
 organizations. By having people working in teams during training, we strengthen between-instructor
 connections which may lead to more discussions between instructors at a later stage. Also, by having
 people already within the community mentoring future instructors, they get to know people already
@@ -88,7 +88,7 @@ history.  Expert help will be provided to support the mentors.
 - Time commitment: 1 hr of training (discussed below), 1 hr online / week for 3-4 weeks of mentoring,
 2-3 hrs / week on email mentoring, ~2 hrs / group member on mini-lesson preparation, observation, and
 follow-up.  Mentoring for this practicum is a time-limited focused committment; volunteering now
-doesn’t mean you’re committing to doing it again 
+doesn't mean you’re committing to doing it again 
 - Training, discussion questions, and feedback tools will be provided 
 - Mentors will be recognized as such on the Instructor webpage
 - Mentors will be given certificates describing their involvement with teaching and training new instructors.
@@ -180,15 +180,15 @@ For SWC: shell, version control and either R or Python
 
 For DC: Spreadsheets, data cleaning with OpenRefine, Sql, and either R- or Python-ecology
 
-* * *
+<hr>
 
 Action items: 
 
-- Create mentor “ad” blog post with clear expectations of how much time is involved, what training will
+- Create mentor "ad" blog post with clear expectations of how much time is involved, what training will
 be provided, and what the mentor will need to do 
 - develop form for creating groups 
 - develop form for requesting mentors 
-- discuss “mentor training” meeting with Greg 
+- discuss "mentor training" meeting with Greg 
 - create a mechanism for people to report problems with their mentor or other group members (support
 structures are important!)   
 - write list of questions for each mentoring session, both for group sans mentor and mentor-led sessions 
